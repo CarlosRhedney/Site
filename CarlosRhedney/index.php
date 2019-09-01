@@ -42,6 +42,7 @@
           <ul class="nav navbar-nav navbar-right">
               <li><a href="index.php">Home</a></li>
               <li><a href="#">Sobre</a></li>
+              <li><a href="#">Contato</a></li>
           </ul>
         </div>
       </div>
